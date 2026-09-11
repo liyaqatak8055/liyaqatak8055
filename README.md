@@ -2,7 +2,7 @@
 
 <!-- Header Typing Animation -->
 <a href="https://github.com/liyaqatak8055">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=560&lines=Hi+There%2C+I'm+Liyaqat+Khan+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Creator+%26+Dev+%40+Azmi+Mushaira+Media+%F0%9F%8E%AC;Building+Modern%2C+Scalable+Web+Apps+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=560&lines=Hi+There%2C+I'm+Liyaqat+Khan+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Creator+%26+Dev+%40+lakpdf.com+%F0%9F%93%84;Building+Modern%2C+Scalable+Web+Apps+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -18,12 +18,12 @@
 
 <p align="center">
   <b>Passionate Software & Web Developer crafting modern digital experiences.</b><br/>
-  Specializing in responsive frontends, performant web architectures, and digital media platforms.
+  Founder & Developer of <b><a href="https://lakpdf.com">lakpdf.com</a></b> — specializing in responsive frontends, document processing engines, and scalable web architectures.
 </p>
 
 <p align="center">
+  <a href="https://lakpdf.com" target="_blank"><img src="https://img.shields.io/badge/Website-lakpdf.com-0066FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:liyaqatak8055@gmail.com"><img src="https://img.shields.io/badge/Email-liyaqatak8055%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://youtube.com/@AZMIMUSHAIRAMEDIA" target="_blank"><img src="https://img.shields.io/badge/YouTube-1.49M%2B%20Subs-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://github.com/liyaqatak8055"><img src="https://img.shields.io/badge/GitHub-liyaqatak8055-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -36,19 +36,20 @@
 ```javascript
 const liyaqat = {
   pronouns: "He/Him",
-  role: "Full-Stack Developer & Tech Lead",
-  code: ["JavaScript", "React", "Node.js", "HTML5", "CSS3"],
+  role: "Full-Stack Developer & Creator",
+  livePlatform: "https://lakpdf.com",
+  code: ["JavaScript", "React", "Node.js", "Express", "HTML5", "CSS3"],
   tools: ["Vite", "Git", "GitHub", "Vercel", "Netlify", "REST APIs"],
-  currentFocus: "Building high-performance web experiences & scalable media apps",
-  passions: ["Modern UI/UX", "Clean Code Architecture", "Media Production", "Open Source"],
-  challenge: "Continuously innovating and pushing boundaries everyday!"
+  currentFocus: "Scaling lakpdf.com & engineering high-performance web applications",
+  passions: ["SaaS Development", "Modern UI/UX", "Clean Architecture", "Open Source"],
+  challenge: "Continuously innovating and shipping real-world products everyday!"
 };
 ```
 
-* 🔭 **Currently Building:** [Azmi Mushaira Media Web Platform](https://github.com/liyaqatak8055/azmi-mushaira-media) — official web portal serving millions of poetry & cultural media enthusiasts.
-* 🌱 **Continuously Improving:** Advanced React patterns, backend micro-services & cloud deployments.
-* 💬 **Ask me about:** React, JavaScript, Responsive UI/UX Design, and media platform architectures.
-* ⚡ **Fun Fact:** When I am not writing code, you will find me orchestrating media productions and digital storytelling!
+* 🔭 **Currently Building & Scaling:** **[lakpdf.com](https://lakpdf.com)** — fast, secure, and intuitive online PDF utilities platform.
+* 🌱 **Continuously Improving:** Advanced Node.js backend architectures, streaming document processing, and modern micro-frontends.
+* 💬 **Ask me about:** React, Node.js, PDF processing algorithms, REST APIs, and responsive design systems.
+* ⚡ **Fun Fact:** I love turning complex developer utilities into simple, one-click online web tools!
 
 ---
 
@@ -109,13 +110,13 @@ const liyaqat = {
 
 ---
 
-### 🚀 Featured Repositories
+### 🚀 Featured Projects & Platforms
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| 🎭 **Azmi Mushaira Media** | Official web platform for leading Mushaira & literary media channel (1.49M+ subscribers). | React • Vite • CSS3 | [Explore Repo](https://github.com/liyaqatak8055/azmi-mushaira-media) |
-| 📄 **LAK-PDF Suite** | Feature-packed PDF utilities & document processing tools. | JavaScript • Node.js | [Explore Repo](https://github.com/liyaqatak8055/LAK-PDF) |
-| 💻 **CodeMasti** | Interactive coding experiments, UI components & tutorials. | Web Tech • JavaScript | [Explore Repo](https://github.com/liyaqatak8055/codemasti) |
+| 📄 **[lakpdf.com](https://lakpdf.com)** | All-in-one modern web platform for fast, secure PDF conversion, merging, splitting & editing tools. | React • Node.js • Express • APIs | [Visit lakpdf.com 🌐](https://lakpdf.com) • [Frontend Repo](https://github.com/liyaqatak8055/LAK-PDF) • [Backend Repo](https://github.com/liyaqatak8055/LAKPDF-BACKEND) |
+| 💻 **CodeMasti** | Interactive web experiments, tutorials & developer components. | JavaScript • Web Tech | [Explore Repo](https://github.com/liyaqatak8055/codemasti) |
+| 🎭 **Azmi Mushaira Media** | Official web platform for leading Mushaira & literary media channel. | React • Vite • CSS3 | [Explore Repo](https://github.com/liyaqatak8055/azmi-mushaira-media) |
 
 ---
 
@@ -126,6 +127,7 @@ const liyaqat = {
 Got an exciting project or want to collaborate on something cool? Feel free to reach out!
 
 <p align="center">
+  <a href="https://lakpdf.com" target="_blank"><img src="https://img.shields.io/badge/Live%20Platform-lakpdf.com-0066FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:liyaqatak8055@gmail.com"><img src="https://img.shields.io/badge/Direct%20Email-liyaqatak8055%40gmail.com-6366f1?style=for-the-badge&logo=mail.ru&logoColor=white" /></a>
   <a href="https://github.com/liyaqatak8055"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
