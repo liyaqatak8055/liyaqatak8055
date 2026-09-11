@@ -1,17 +1,17 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Liyaqat%20Khan&fontSize=48&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Creator%20of%20lakpdf.com&descAlignY=58" width="100%" alt="Header Banner" />
+<!-- Water Wave Header Banner (White & Green Theme) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,100:047857&height=220&section=header&text=Leyaquat%20Ali%20Khan&fontSize=48&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Creator%20of%20lakpdf.com&descAlignY=58" width="100%" alt="Water Wave Header Banner" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;Founder+%26+Developer+%40+lakpdf.com+%F0%9F%93%84;Building+Azmi+Mushaira+Media+%26+CodeMastii+%F0%9F%9A%80;Python+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+MySQL+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=059669&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;Founder+%26+Developer+%40+lakpdf.com+%F0%9F%93%84;Building+Azmi+Mushaira+Media+%26+CodeMastii+%F0%9F%9A%80;Python+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+MySQL+%E2%9A%A1" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://github.com/liyaqatak8055">
-    <img src="https://komarev.com/ghpvc/?username=liyaqatak8055&style=flat-square&color=6366F1&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=liyaqatak8055&style=flat-square&color=10b981&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
   <a href="https://github.com/liyaqatak8055?tab=followers">
-    <img src="https://img.shields.io/github/followers/liyaqatak8055?style=flat-square&color=238636&logo=github&label=Followers" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/liyaqatak8055?style=flat-square&color=10b981&logo=github&label=Followers" alt="Followers" />
   </a>
 </p>
 
@@ -23,9 +23,9 @@
 </p>
 
 <p align="center">
-  <a href="https://lakpdf.com" target="_blank"><img src="https://img.shields.io/badge/Live%20Platform-lakpdf.com-0066FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:liyaqatak8055@gmail.com"><img src="https://img.shields.io/badge/Email-liyaqatak8055%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/liyaqatak8055"><img src="https://img.shields.io/badge/GitHub-liyaqatak8055-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://lakpdf.com" target="_blank"><img src="https://img.shields.io/badge/Live%20Platform-lakpdf.com-059669?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:liyaqatak8055@gmail.com"><img src="https://img.shields.io/badge/Email-liyaqatak8055%40gmail.com-10b981?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/liyaqatak8055"><img src="https://img.shields.io/badge/GitHub-liyaqatak8055-1f2937?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 </div>
@@ -36,7 +36,7 @@
 
 ```javascript
 const developer = {
-  name: "Liyaqat Khan",
+  name: "Leyaquat Ali Khan",
   role: "Full-Stack Developer & SaaS Creator",
   livePlatforms: ["https://lakpdf.com"],
   inActiveDevelopment: ["Azmi Mushaira Media (90% Done)", "CodeMastii"],
@@ -101,7 +101,7 @@ const developer = {
 
 ---
 
-### 📊 GitHub Activity & Real-Time Stats
+### 📊 GitHub Activity & Real-Time Stats (White & Green Theme)
 
 <div align="center">
 
@@ -109,19 +109,19 @@ const developer = {
   <tr align="center">
     <td>
       <a href="https://github.com/liyaqatak8055">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=liyaqatak8055&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" width="410" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=liyaqatak8055&show_icons=true&bg_color=ffffff&title_color=047857&icon_color=10b981&text_color=1f2937&border_color=10b981" alt="GitHub Stats" width="410" />
       </a>
     </td>
     <td>
       <a href="https://github.com/liyaqatak8055">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=liyaqatak8055&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=94a3b8" alt="Top Languages" width="390" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=liyaqatak8055&layout=compact&bg_color=ffffff&title_color=047857&text_color=1f2937&border_color=10b981" alt="Top Languages" width="390" />
       </a>
     </td>
   </tr>
   <tr align="center">
     <td colspan="2">
       <a href="https://github.com/liyaqatak8055">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=liyaqatak8055&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=f59e0b&currStreakNum=38bdf8" alt="GitHub Streak" width="810" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=liyaqatak8055&background=ffffff&ring=10b981&fire=059669&currStreakNum=047857&sideNums=1f2937&dates=4b5563&sideLabels=4b5563&border=10b981" alt="GitHub Streak" width="810" />
       </a>
     </td>
   </tr>
@@ -148,16 +148,16 @@ const developer = {
 Got an exciting project idea or want to collaborate on something impactful? Let's talk!
 
 <p align="center">
-  <a href="https://lakpdf.com" target="_blank"><img src="https://img.shields.io/badge/Live%20Platform-lakpdf.com-0066FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:liyaqatak8055@gmail.com"><img src="https://img.shields.io/badge/Direct%20Email-liyaqatak8055%40gmail.com-6366f1?style=for-the-badge&logo=mail.ru&logoColor=white" /></a>
-  <a href="https://github.com/liyaqatak8055"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://lakpdf.com" target="_blank"><img src="https://img.shields.io/badge/Live%20Platform-lakpdf.com-059669?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:liyaqatak8055@gmail.com"><img src="https://img.shields.io/badge/Direct%20Email-liyaqatak8055%40gmail.com-10b981?style=for-the-badge&logo=mail.ru&logoColor=white" /></a>
+  <a href="https://github.com/liyaqatak8055"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-1f2937?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" alt="Footer Wave" />
+<!-- Water Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,100:047857&height=120&section=footer" width="100%" alt="Water Wave Footer" />
 
 <p align="center">
-  <i>⭐ Crafted with passion by <a href="https://github.com/liyaqatak8055">Liyaqat Khan</a> ⭐</i>
+  <i>⭐ Crafted with passion by <a href="https://github.com/liyaqatak8055">Leyaquat Ali Khan</a> ⭐</i>
 </p>
 
 </div>
