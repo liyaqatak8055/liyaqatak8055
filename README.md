@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Liyaqat%20Khan&fontSize=48&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Creator%20of%20lakpdf.com&descAlignY=58" width="100%" alt="Header Banner" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;Founder+%26+Developer+%40+lakpdf.com+%F0%9F%93%84;React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+MySQL+%E2%80%A2+SQL+%E2%9A%A1;Tailwind+CSS+%E2%80%A2+Bootstrap+%E2%80%A2+Render+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;Founder+%26+Developer+%40+lakpdf.com+%F0%9F%93%84;Python+%E2%80%A2+JavaScript+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%9A%A1;MongoDB+%E2%80%A2+MySQL+%E2%80%A2+Tailwind+CSS+%E2%80%A2+Render+%F0%9F%9A%80" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://github.com/liyaqatak8055">
@@ -18,7 +18,7 @@
 ---
 
 <p align="center">
-  <b>Passionate Full-Stack Developer & SaaS Creator crafting modern, high-performance web applications.</b><br/>
+  <b>Passionate Full-Stack Developer & SaaS Creator crafting modern, high-performance digital experiences.</b><br/>
   Founder & Developer of <b><a href="https://lakpdf.com" target="_blank">lakpdf.com</a></b> — blending modern UI design with scalable backend architectures.
 </p>
 
@@ -39,22 +39,23 @@ const developer = {
   name: "Liyaqat Khan",
   role: "Full-Stack Developer & SaaS Creator",
   flagshipProject: "https://lakpdf.com",
-  languages: ["JavaScript (ES6+)", "SQL", "HTML5", "CSS3"],
+  languages: ["JavaScript (ES6+)", "Python", "SQL", "HTML5", "CSS3"],
   frontend: ["React.js", "Tailwind CSS", "Bootstrap", "Vite"],
-  backend: ["Node.js", "Express.js", "REST APIs"],
+  backend: ["Node.js", "Express.js", "Python Scripts", "REST APIs"],
   databases: ["MongoDB", "MySQL"],
   cloudAndHosting: ["Render", "Netlify"],
-  toolsAndIDE: ["Google Antigravity", "VS Code", "Git", "GitHub"],
+  packageAndTools: ["npm", "Git", "GitHub"],
+  devEnvironment: ["Google Antigravity IDE", "VS Code"],
   currentFocus: "Scaling lakpdf.com and architecting production-grade full-stack apps",
   passions: ["SaaS Engineering", "Clean Architecture", "UI/UX Excellence", "Open Source"]
 };
 ```
 
 * 🔭 **Currently Building & Scaling:** **[lakpdf.com](https://lakpdf.com)** — Fast, secure, and user-friendly online PDF processing SaaS.
-* 🚀 **Core Expertise:** Building responsive frontends with **React, Tailwind CSS & Bootstrap**, powered by **Node.js, Express, MongoDB & MySQL** backends.
+* 🚀 **Core Expertise:** Modern Frontend (**React, Tailwind CSS, Bootstrap**) & scalable Backends (**Node.js, Express, Python, MongoDB, MySQL**).
+* 📦 **Tooling & Packages:** Managing modern JS ecosystems with **npm** and AI-first engineering with **Google Antigravity IDE**.
 * ☁️ **Cloud & Deployment:** Deploying full-stack applications with ease on **Render** & **Netlify**.
-* 🛠️ **Development Flow:** Developing with modern AI-first workflows using **Google Antigravity IDE** and **VS Code**.
-* 💬 **Ask me about:** React, Node.js, REST API architecture, Database schemas (SQL & MongoDB), and PDF processing workflows.
+* 💬 **Ask me about:** React, Python scripting, Node.js, REST API architecture, Databases (SQL & NoSQL), and PDF tools.
 
 ---
 
@@ -71,8 +72,9 @@ const developer = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-#### ⚙️ Backend & APIs
+#### ⚙️ Backend, Languages & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
@@ -85,7 +87,8 @@ const developer = {
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-#### 🧰 Developer Tools & Environments
+#### 🧰 Package Managers & Tools
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
