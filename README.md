@@ -2,7 +2,7 @@
 
 <!-- Header Typing Animation -->
 <a href="https://github.com/liyaqatak8055">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=560&lines=Hi+There%2C+I'm+Liyaqat+Khan+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Creator+%26+Dev+%40+lakpdf.com+%F0%9F%93%84;Building+Modern%2C+Scalable+Web+Apps+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=560&lines=Hi+There%2C+I'm+Liyaqat+Khan+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Founder+%26+Dev+%40+lakpdf.com+%F0%9F%93%84;Building+Modern%2C+Scalable+Web+Apps+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -18,11 +18,11 @@
 
 <p align="center">
   <b>Passionate Software & Web Developer crafting modern digital experiences.</b><br/>
-  Founder & Developer of <b><a href="https://lakpdf.com">lakpdf.com</a></b> — specializing in responsive frontends, document processing engines, and scalable web architectures.
+  Founder & Developer of <b><a href="https://lakpdf.com" target="_blank">lakpdf.com</a></b> — specializing in responsive frontends, document processing engines, and scalable web architectures.
 </p>
 
 <p align="center">
-  <a href="https://lakpdf.com" target="_blank"><img src="https://img.shields.io/badge/Website-lakpdf.com-0066FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://lakpdf.com" target="_blank"><img src="https://img.shields.io/badge/Live%20Platform-lakpdf.com-0066FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:liyaqatak8055@gmail.com"><img src="https://img.shields.io/badge/Email-liyaqatak8055%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/liyaqatak8055"><img src="https://img.shields.io/badge/GitHub-liyaqatak8055-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
@@ -116,7 +116,6 @@ const liyaqat = {
 | :--- | :--- | :--- | :--- |
 | 📄 **[lakpdf.com](https://lakpdf.com)** | All-in-one modern web platform for fast, secure PDF conversion, merging, splitting & editing tools. | React • Node.js • Express • APIs | [Visit lakpdf.com 🌐](https://lakpdf.com) • [Frontend Repo](https://github.com/liyaqatak8055/LAK-PDF) • [Backend Repo](https://github.com/liyaqatak8055/LAKPDF-BACKEND) |
 | 💻 **CodeMasti** | Interactive web experiments, tutorials & developer components. | JavaScript • Web Tech | [Explore Repo](https://github.com/liyaqatak8055/codemasti) |
-| 🎭 **Azmi Mushaira Media** | Official web platform for leading Mushaira & literary media channel. | React • Vite • CSS3 | [Explore Repo](https://github.com/liyaqatak8055/azmi-mushaira-media) |
 
 ---
 
