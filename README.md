@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Liyaqat%20Khan&fontSize=48&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Creator%20of%20lakpdf.com&descAlignY=58" width="100%" alt="Header Banner" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;Founder+%26+Developer+%40+lakpdf.com+%F0%9F%93%84;Python+%E2%80%A2+JavaScript+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%9A%A1;MongoDB+%E2%80%A2+MySQL+%E2%80%A2+Tailwind+CSS+%E2%80%A2+Render+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;Founder+%26+Developer+%40+lakpdf.com+%F0%9F%93%84;Building+Azmi+Mushaira+Media+%26+CodeMastii+%F0%9F%9A%80;Python+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+MySQL+%E2%9A%A1" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://github.com/liyaqatak8055">
@@ -19,7 +19,7 @@
 
 <p align="center">
   <b>Passionate Full-Stack Developer & SaaS Creator crafting modern, high-performance digital experiences.</b><br/>
-  Founder & Developer of <b><a href="https://lakpdf.com" target="_blank">lakpdf.com</a></b> — blending modern UI design with scalable backend architectures.
+  Founder & Developer of <b><a href="https://lakpdf.com" target="_blank">lakpdf.com</a></b> — actively building scalable platforms including <b>Azmi Mushaira Media</b> and <b>CodeMastii</b>.
 </p>
 
 <p align="center">
@@ -38,7 +38,8 @@
 const developer = {
   name: "Liyaqat Khan",
   role: "Full-Stack Developer & SaaS Creator",
-  flagshipProject: "https://lakpdf.com",
+  livePlatforms: ["https://lakpdf.com"],
+  inActiveDevelopment: ["Azmi Mushaira Media (90% Done)", "CodeMastii"],
   languages: ["JavaScript (ES6+)", "Python", "SQL", "HTML5", "CSS3"],
   frontend: ["React.js", "Tailwind CSS", "Bootstrap", "Vite"],
   backend: ["Node.js", "Express.js", "Python Scripts", "REST APIs"],
@@ -46,12 +47,14 @@ const developer = {
   cloudAndHosting: ["Render", "Netlify"],
   packageAndTools: ["npm", "Git", "GitHub"],
   devEnvironment: ["Google Antigravity IDE", "VS Code"],
-  currentFocus: "Scaling lakpdf.com and architecting production-grade full-stack apps",
-  passions: ["SaaS Engineering", "Clean Architecture", "UI/UX Excellence", "Open Source"]
+  currentFocus: "Scaling lakpdf.com & rolling out production builds for Azmi Mushaira Media"
 };
 ```
 
-* 🔭 **Currently Building & Scaling:** **[lakpdf.com](https://lakpdf.com)** — Fast, secure, and user-friendly online PDF processing SaaS.
+* 🔭 **Active Projects & What I'm Building:**
+  - 📄 **[lakpdf.com](https://lakpdf.com)** `[🟢 Live SaaS]` — Fast, secure, and intuitive online PDF processing utilities.
+  - 🎭 **[Azmi Mushaira Media](https://github.com/liyaqatak8055/azmi-mushaira-media)** `[🚧 90% Completed • Active Development]` — Official platform for 1.49M+ subscribers media community.
+  - 💻 **[CodeMastii](https://github.com/liyaqatak8055/codemasti)** `[🚧 In Progress]` — Interactive coding tutorials and web developer playground.
 * 🚀 **Core Expertise:** Modern Frontend (**React, Tailwind CSS, Bootstrap**) & scalable Backends (**Node.js, Express, Python, MongoDB, MySQL**).
 * 📦 **Tooling & Packages:** Managing modern JS ecosystems with **npm** and AI-first engineering with **Google Antigravity IDE**.
 * ☁️ **Cloud & Deployment:** Deploying full-stack applications with ease on **Render** & **Netlify**.
@@ -130,11 +133,11 @@ const developer = {
 
 ### 🚀 Featured Projects & Platforms
 
-| Project | Description | Tech Stack | Quick Links |
-| :--- | :--- | :--- | :--- |
-| 📄 **[lakpdf.com](https://lakpdf.com)** | All-in-one modern web platform for fast, secure PDF conversion, merging, splitting & editing tools. | React • Node.js • Express • Render | [Visit Website 🌐](https://lakpdf.com) • [Frontend](https://github.com/liyaqatak8055/LAK-PDF) • [Backend](https://github.com/liyaqatak8055/LAKPDF-BACKEND) |
-| 💻 **CodeMasti** | Interactive web experiments, tutorials & reusable UI components. | JavaScript • Web Tech | [Explore Repo 💻](https://github.com/liyaqatak8055/codemasti) |
-| 🎭 **Azmi Mushaira Media** | Official web platform for leading Mushaira & literary media channel. | React • Vite • CSS3 | [Explore Repo 🎭](https://github.com/liyaqatak8055/azmi-mushaira-media) |
+| Project | Status | Description | Tech Stack | Quick Links |
+| :--- | :---: | :--- | :--- | :--- |
+| 📄 **[lakpdf.com](https://lakpdf.com)** | ![Live](https://img.shields.io/badge/Status-Live_SaaS-238636?style=flat-square) | All-in-one modern web platform for fast, secure PDF conversion, merging, splitting & editing tools. | React • Node.js • Express • Render | [Visit Website 🌐](https://lakpdf.com) • [Frontend](https://github.com/liyaqatak8055/LAK-PDF) • [Backend](https://github.com/liyaqatak8055/LAKPDF-BACKEND) |
+| 🎭 **[Azmi Mushaira Media](https://github.com/liyaqatak8055/azmi-mushaira-media)** | ![WIP](https://img.shields.io/badge/Status-90%25_Done_•_WIP-orange?style=flat-square) | Official web platform for leading Mushaira & literary media channel with 1.49M+ YouTube subscribers. | React • Vite • CSS3 | [Explore Repo 🎭](https://github.com/liyaqatak8055/azmi-mushaira-media) |
+| 💻 **[CodeMastii](https://github.com/liyaqatak8055/codemasti)** | ![In Progress](https://img.shields.io/badge/Status-In_Development-blue?style=flat-square) | Interactive coding experiments, web tutorials & reusable UI developer playground. | JavaScript • Web Tech | [Explore Repo 💻](https://github.com/liyaqatak8055/codemasti) |
 
 ---
 
