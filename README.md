@@ -24,6 +24,7 @@
 
 <p align="center">
   <a href="https://lakpdf.com" target="_blank"><img src="https://img.shields.io/badge/Live%20Platform-lakpdf.com-059669?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/liyaqatak8055" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Leyaquat_Ali_Khan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:liyaqatak8055@gmail.com"><img src="https://img.shields.io/badge/Email-liyaqatak8055%40gmail.com-10b981?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/liyaqatak8055"><img src="https://img.shields.io/badge/GitHub-liyaqatak8055-1f2937?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
@@ -39,6 +40,7 @@ const developer = {
   name: "Leyaquat Ali Khan",
   role: "Full-Stack Developer & SaaS Creator",
   livePlatforms: ["https://lakpdf.com"],
+  linkedIn: "https://linkedin.com/in/liyaqatak8055",
   inActiveDevelopment: ["Azmi Mushaira Media (90% Done)", "CodeMastii"],
   languages: ["JavaScript (ES6+)", "Python", "SQL", "HTML5", "CSS3"],
   frontend: ["React.js", "Tailwind CSS", "Bootstrap", "Vite"],
@@ -149,6 +151,7 @@ Got an exciting project idea or want to collaborate on something impactful? Let'
 
 <p align="center">
   <a href="https://lakpdf.com" target="_blank"><img src="https://img.shields.io/badge/Live%20Platform-lakpdf.com-059669?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/liyaqatak8055" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:liyaqatak8055@gmail.com"><img src="https://img.shields.io/badge/Direct%20Email-liyaqatak8055%40gmail.com-10b981?style=for-the-badge&logo=mail.ru&logoColor=white" /></a>
   <a href="https://github.com/liyaqatak8055"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-1f2937?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
